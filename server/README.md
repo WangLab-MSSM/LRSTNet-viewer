@@ -1,8 +1,9 @@
 Prerequisites:
 
-Python 3
+* Python 3
 
 Running the backend locally:
+
 Note: The following steps assume you have built the frontend application (run `yarn build`) and have a `..dist` directory. 
 
 1. Create a virtual environment by running the command `python -m venv venv`. This will create a folder named venv in your directory that will contain the virtual environment.
